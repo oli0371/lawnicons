@@ -29,7 +29,7 @@
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.coloros.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.google.android.calculator" name="Calculator" />
-    <icon drawable="@drawable/calculator" package="com.huawei.calulator" name="Calculator" />
+    <icon drawable="@drawable/calculator" package="com.huawei.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.miui.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
