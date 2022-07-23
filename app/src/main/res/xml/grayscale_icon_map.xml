@@ -4,6 +4,7 @@
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
     <icon drawable="@drawable/adm" package="com.dv.adm" name="ADM" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
+    <icon drawable="@drawable/aethersx2" package="xyz.aethersx2.android" name="AetherSX2" />
     <icon drawable="@drawable/aida64" package="com.finalwire.aida64" name="AIDA64" />
     <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
     <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
