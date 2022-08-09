@@ -20,9 +20,7 @@
 		android:strokeLineCap="square"
 		android:pathData="M13.21,2.14L13.19,21.84L10.67,19.44L10.65,4.61z"/>
 	<path
-		android:fillColor="#FF000000"
-		android:strokeColor="#F9000000"
-		android:strokeWidth="0.13040915"
+		android:fillColor="#6C000000"
 		android:strokeLineJoin="miter"
 		android:fillType="nonZero"
 		android:strokeLineCap="square"
