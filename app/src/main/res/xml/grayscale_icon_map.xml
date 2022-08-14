@@ -15,6 +15,8 @@
     <icon drawable="@drawable/anotherwidget" package="com.tommasoberlose.anotherwidget" name="Another Widget" />
     <icon drawable="@drawable/apexlegends" package="com.ea.gp.apexlegendsmobilefps" name="Apex Legends" />
     <icon drawable="@drawable/apkmirror_installer" package="com.apkmirror.helper.prod" name="APKMirror Installer" />
+    <icon drawable="@drawable/apktoolm" package="ru.maximoff.apktool" name="Apktool M" />
+    <icon drawable="@drawable/myemtel" package="com.emtel" name="My Emtel" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
